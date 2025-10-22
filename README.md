@@ -2,7 +2,7 @@
 
 
 ![](images/mnet_logo_white.png)
-![](all_images_5x20.png)
+![](all_images_5x20.jpg)
 
 ## Introduction
 
