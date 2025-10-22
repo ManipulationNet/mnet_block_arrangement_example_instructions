@@ -2,13 +2,14 @@
 
 
 ![](images/mnet_logo_white.png)
+![](images/all_images_5x20.png)
 
 ## Introduction
 
-We provide 100 example tasks for each task mode: language prompts (**L** mode), visual prompts (**V** mode), and visual–language prompts (**VL** mode), resulting in 300 example tasks in total.
+We provide 100 example tasks for each task mode: language prompts (**L** mode), visual prompts (**V** mode), and visual–language prompts (**VL** mode), totalling 300 example tasks.
 
 -  Task details please check on file **metadata.json**
-- All images are stored in the folder **\images**
+- All images are stored in the folder **./images**
 
 
 
