@@ -5,7 +5,7 @@
 
 ## Introduction
 
-We provide 100 example tasks for each task mode: language prompts, visual prompts, and visual–language prompts, resulting in 300 example tasks in total.
+We provide 100 example tasks for each task mode: language prompts (**L** mode), visual prompts (**V** mode), and visual–language prompts (**VL** mode), resulting in 300 example tasks in total.
 
 -  Task details please check on file **metadata.json**
 - All images are stored in the folder **\images**
